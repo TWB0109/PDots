@@ -12,4 +12,4 @@ messy configuration files of an unemployed Linux lover
 * the colorscheme may be achieved with ```wal --theme <path_to_the_json_colorscheme>```
 
 # installation:
-idk, install them yourself, I'm to lazy for that ❤ 
+idk, install them yourself, I'm too lazy for that ❤ 
