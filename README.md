@@ -9,6 +9,7 @@ messy configuration files of an unemployed Linux lover
 * [kunst](https://github.com/sdushantha/kunst) & [sxiv](https://github.com/muennich/sxiv) for Mpd cover
 * [tpm](https://github.com/tmux-plugins/tpm) for tmux plugins  
 * the scripts needed are in "./scripts"
+* the colorscheme may be achieved with ```wal --theme <path_to_the_json_colorscheme>```
 
 # installation:
 idk, install them yourself, I'm to lazy for that ❤ 
