@@ -8,7 +8,7 @@ messy configuration files of an unemployed Linux lover
 * [mpd](https://github.com/MusicPlayerDaemon/MPD) & [mpc](https://github.com/MusicPlayerDaemon/mpc) for the tmux tmux-mpd script (But if you have ncmpcpp you'll obviously have them)
 * [kunst](https://github.com/sdushantha/kunst) & [sxiv](https://github.com/muennich/sxiv) for Mpd cover
 * [tpm](https://github.com/tmux-plugins/tpm) for tmux plugins  
-* the scripts needed are in "./scripts"
+* the scripts needed are in [scripts](scripts)
 * the colorscheme may be achieved with ```wal --theme <path_to_the_json_colorscheme>```
 
 # installation:
