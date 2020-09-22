@@ -1,0 +1,32 @@
+Xcursor.theme: Vimix-Ruby-dark
+
+#define background #32302f
+#define red        #fb4934
+#define green      #b8bb26
+#define yellow     #fabd2f
+#define lightBlue  #83a598
+#define lightPink  #d3869b
+#define lightGreen #8ec07c
+#define foreground #d5c4a1
+#define gray       #665c54
+#define white      #fbf1c7
+
+*.foreground:  foreground
+*.cursorColor: foreground
+
+*.color0: background
+*.color1: red
+*.color2: green
+*.color3: yellow
+*.color4: lightBlue
+*.color5: lightPink 
+*.color6: lightGreen
+*.color7: foreground
+*.color8: gray
+*.color9: red
+*.color10: green
+*.color11: yellow
+*.color12: lightBlue
+*.color13: lightPink
+*.color14: lightGreen
+*.color15: white
