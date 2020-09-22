@@ -59,9 +59,9 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = fixed:pixelsize=9:weight=bold:antialias=true;1
-font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-font-2 = NotoSansMono Nerd Font:pixelsize=10;1
+font-0 = fixed:pixelsize=9:weight=bold:antialias=true
+font-1 = unifont:fontformat=truetype:size=8:antialias=false
+font-2 = NotoSansMono Nerd Font:pixelsize=10
 
 modules-left = i3 
 modules-center = calendar date 
@@ -299,10 +299,7 @@ click-right = $HOME/.disturb.sh
 [module/caffeine]
 type = custom/text
 content = ""
-
-click-left = xautolock -disable && notify-send "Caffeine" "Xautolock is disabled"
-click-right = xautolock -enable && notify-send "Caffeine" "Xautolock is enabled"
-
+click-left = xautolock -disable && notify-send "Caffeine" "Xautolock is disabled" click-right = xautolock -enable && notify-send "Caffeine" "Xautolock is enabled"
 content-foreground = ${glob.light-blue}
 ;content-background = ${glob.light-blue}
 content-padding = ${glob.padding}
