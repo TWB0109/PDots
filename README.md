@@ -8,7 +8,7 @@ messy configuration files of an unemployed Linux lover
 * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) for the autolock script (But you can edit the script to use your own screen locker)
 * [mpd](https://github.com/MusicPlayerDaemon/MPD) & [mpc](https://github.com/MusicPlayerDaemon/mpc) for the tmux tmux-mpd script (But if you have ncmpcpp you'll obviously have them)
 * [kunst](https://github.com/sdushantha/kunst) & [sxiv](https://github.com/muennich/sxiv) for Mpd cover
-* [tpm](https://github.com/tmux-plugins/tpm) for tmux plugins  
+* [tpm](https://github.com/tmux-plugins/tpm) for tmux plugins  (included as a submodule)
 * the scripts needed are in [scripts](scripts/.scripts)
 * the colorscheme (located in [alacritty](alacritty/.config/alacritty/)) may be achieved with ```wal --theme <path_to_the_json_colorscheme>```
 
@@ -31,7 +31,7 @@ messy configuration files of an unemployed Linux lover
     
 3. Backup all the files that you don't want to lose (e.g your .vimrc, .xresources, .tmux.conf, .config/i3/config, .config/polybar/config, etc.)
  
-4. Delete the files in your home directory that you want to stow.
+4. Delete the files in your home directory that you want to stow
  
 5. Stow the repo
    ```bash
