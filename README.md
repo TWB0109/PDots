@@ -19,12 +19,12 @@ messy configuration files of an unemployed Linux lover
     ```
   
 2. Install GNU Stow
-  * Arch Linux and derivates
+  * Arch Linux and derivatives
     ```bash
     pacman -S stow
     ```
     
-  * Ubuntu and derivates
+  * Ubuntu and derivatives
     ```bash
     apt-get install stow
     ```
