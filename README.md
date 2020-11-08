@@ -1,4 +1,4 @@
-# coffee gruvbox i3 | dotfiles 
+# coffee ☕ gruvbox i3 | dotfiles 
 messy configuration files of an unemployed Linux lover
 
 <img style="box-shadow: 0px 0px 10px #000;" src="./.assets/fakebusy.png">
