@@ -2,5 +2,6 @@
 
 \.git 
 \.gitignore
+\.gitmodules
 
 ^/README.*
