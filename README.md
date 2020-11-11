@@ -15,7 +15,7 @@ messy configuration files of an unemployed Linux lover
 # installation:
 1. Clone the repo
     ```bash
-    git clone https://github.com/TWB0109/PDots.git
+    git clone https://github.com/TWB0109/PDots.git --recursive
     ```
   
 2. Install GNU Stow
