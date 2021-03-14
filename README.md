@@ -2,6 +2,7 @@
 messy configuration files of an unemployed Linux lover
 
 <img style="box-shadow: 0px 0px 10px #000;" src="./.assets/fakebusy.png">
+<img style="box-shadow: 0px 0px 10px #000;" src="./.assets/fakebusy-spectrwm.png">
 
 # dependencies: 
 * [GNU Stow](https://gnu.org/software/stow)
