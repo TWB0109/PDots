@@ -7,6 +7,8 @@ messy configuration files of an unemployed Linux lover
 # spectrwm:
 <img style="box-shadow: 0px 0px 10px #000;" src="./.assets/fakebusy-spectrwm.png">
 
+    No "death bed" because I lost all my music :(
+
 # dependencies: 
 * [GNU Stow](https://gnu.org/software/stow)
 * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) for the autolock script (But you can edit the script to use your own screen locker)
