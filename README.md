@@ -3,6 +3,7 @@ messy configuration files of an unemployed Linux lover
 
 # i3:
 <img style="box-shadow: 0px 0px 10px #000;" src="./.assets/fakebusy.png">
+
 # spectrwm:
 <img style="box-shadow: 0px 0px 10px #000;" src="./.assets/fakebusy-spectrwm.png">
 
