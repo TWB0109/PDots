@@ -16,7 +16,7 @@ messy configuration files of an unemployed Linux lover
 * the scripts needed are in [scripts](scripts/.scripts)
 * the colorscheme (located in [alacritty](alacritty/.config/alacritty/)) may be achieved with ```wal --theme <path_to_the_json_colorscheme>```
 
-# installation:
+# installation for i3:
 1. Clone the repo
     ```bash
     git clone https://github.com/TWB0109/PDots.git --recursive
@@ -37,10 +37,37 @@ messy configuration files of an unemployed Linux lover
  
 4. Delete the files in your home directory that you want to stow
  
+5. Stow the repo (Bash and Zsh, don't know about Fish)
+   ```bash
+   cd PDots
+   stow alacritty i3 lf ncmpcpp picom polybar scripts tmux vim xresources
+    ```
+
+# installation for spectrwm:
+1. Clone the repo
+    ```bash
+    git clone https://github.com/TWB0109/PDots.git --recursive
+    ```
+  
+2. Install GNU Stow
+  * Arch Linux and derivatives
+    ```bash
+    pacman -S stow
+    ```
+    
+  * Ubuntu and derivatives
+    ```bash
+    apt-get install stow
+    ```
+    
+3. Backup all the files that you don't want to lose (e.g your .vimrc, .xresources, .tmux.conf, .config/spectrwm/spectrwmrc, etc.)
+ 
+4. Delete the files in your home directory that you want to stow
+ 
 5. Stow the repo
    ```bash
    cd PDots
-   stow *
+   stow alacritty spectrwm lf ncmpcpp picom scripts tmux vim xresources
     ```
 
 # notes:
