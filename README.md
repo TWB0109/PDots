@@ -39,7 +39,7 @@ messy configuration files of an unemployed Linux lover
  
 4. Delete the files in your home directory that you want to stow
  
-5. Stow the repo (Bash and Zsh, don't know about Fish)
+5. Stow the repo
    ```bash
    cd PDots
    stow alacritty i3 lf ncmpcpp picom polybar scripts tmux vim xresources
