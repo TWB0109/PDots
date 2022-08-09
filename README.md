@@ -1,4 +1,4 @@
-#THIS IS DEPRECATED, PLEASE SEE [dotfiles](https://github.com/TWB0109/dotfiles.git)
+# THIS IS DEPRECATED, PLEASE SEE [dotfiles](https://github.com/TWB0109/dotfiles.git)
 
 # coffee ☕ gruvbox i3/spectrwm | dotfiles 
 messy configuration files of an unemployed Linux lover
